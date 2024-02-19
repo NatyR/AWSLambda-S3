@@ -1,0 +1,13 @@
+# Arquivos de dependências
+node_modules
+
+# Arquivos de build ou compilados
+dist
+build
+*.log
+
+# Arquivos de configuração
+
+# Arquivos de cache ou temporários
+.cache
+.tmp
